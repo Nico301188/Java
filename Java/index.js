@@ -15,7 +15,7 @@ const bool = false;
 console.log("hello world!!")
 console.log(cadena)
 console.log(numero)
-console.log(bool)
+// console.log(bool)
 
 
 console.log("/---------------------------------------------/")
